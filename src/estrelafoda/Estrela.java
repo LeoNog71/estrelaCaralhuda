@@ -24,6 +24,12 @@ public class Estrela {
     public Estrela(List<List<Nodo>> grafo){
         this.grafo = grafo;
     }
+
+    public List<List<Nodo>> getGrafo() {
+        return grafo;
+    }
+    
+    
     
     public List<String> busca(){
         List<Nodo> aberta = new ArrayList<>();
@@ -49,7 +55,7 @@ public class Estrela {
 
                
                while(true){
-                    System.out.println(atual.getValor());
+                    //System.out.println(atual.getValor());
                     caminho.add(atual.getId());
                     atual = atual.getPai();
                     
@@ -58,6 +64,16 @@ public class Estrela {
                         aberta = new ArrayList<>();
                         fechada = new ArrayList<>();
                         atual = grafo.get(0).get(0);
+                        
+                        
+                        for(int i = 0; i < 10; i++){
+                            for(int j = 0; j < 10; j++){
+                                System.out.print(grafo.get(i).get(j).getCusto()+" ");
+                            }
+                            System.out.println("");
+                        }
+                        
+                        caminho.forEach((x)->{System.out.println(x);});
                         
                         return caminho;
                     }

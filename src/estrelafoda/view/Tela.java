@@ -5,6 +5,7 @@
  */
 package estrelafoda.view;
 
+import estrelafoda.Estrela;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -2101,7 +2102,7 @@ public class Tela extends javax.swing.JFrame {
 
     private void jButtonGerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonGerarActionPerformed
         try {
-            controllerTela.gerarMapa();
+           // controllerTela.gerarMapa();
         } catch (Exception ex) {
             Logger.getLogger(Tela.class.getName()).log(Level.SEVERE, null, ex);
         }

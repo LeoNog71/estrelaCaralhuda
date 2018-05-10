@@ -7,8 +7,10 @@ package estrelafoda.view;
 
 
 import estrelafoda.GeradorMatriz;
+import estrelafoda.Nodo;
 import java.awt.Color;
 import java.io.IOException;
+import java.util.List;
 import javax.swing.JPanel;
 
 /**
@@ -63,9 +65,9 @@ public class ControllerTela {
     }
     
     
-    public void gerarMapa(){
+    public void gerarMapa(List<List<Nodo>> grafo){
         
-        Integer [][] matriz = new GeradorMatriz().getMatriz();
+        
                 
         tela.getjButtonIniciar().setEnabled(true);
         tela.getjButton1().setEnabled(true);
@@ -78,7 +80,7 @@ public class ControllerTela {
             
             for(int j=0; j<10; j++){
                 
-                switch (matriz[i][j]) {
+                switch (grafo.get(i).get(j).getCusto()) {
                     case 1:
                         mapa[i][j].setBackground(Color.WHITE);
                         break;
