@@ -20,7 +20,7 @@ public class GeradorMatriz {
     
     
     private Integer[][] geradorNum(){
-        Integer[] terrenos = {1,1000,4,20,10,1,4,10,20};
+        Integer[] terrenos = {1,20,4,1000,10,1,4,10,20};
         Integer[][] matriz = new Integer[10][10];
         Integer teste;
         
@@ -31,13 +31,7 @@ public class GeradorMatriz {
                 matriz[i][j] = terrenos[rand.nextInt(9)];                        
             }
         }
-        for(int i = 0; i < 10; i++){
-            for(int j = 0; j < 10; j++){
-
-                System.out.print(matriz[i][j]+" - ");                        
-            }
-            System.out.println("");
-        }
+        
         
         return matriz;
         

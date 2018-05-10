@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -31,14 +32,14 @@ public class Estrela {
     
     
     
-    public List<String> busca(){
+    public List<String> busca(String destino){
         List<Nodo> aberta = new ArrayList<>();
         List<Nodo> fechada = new ArrayList<>();
         List<String> caminho = new ArrayList<>();
         
         
         Nodo inicial = this.grafo.get(0).get(0);
-        Nodo destino = this.grafo.get(9).get(9);
+       
         
         aberta.add(inicial);
         
@@ -47,12 +48,7 @@ public class Estrela {
         
         while (true){
             
-            if(atual.getId().equals("9x9")){//destino)){
-                
-                System.out.println("");
-                System.out.println("");
-                System.out.println("");
-
+            if(atual.getId().equals(destino)){//destino)){
                
                while(true){
                     //System.out.println(atual.getValor());
@@ -65,15 +61,6 @@ public class Estrela {
                         fechada = new ArrayList<>();
                         atual = grafo.get(0).get(0);
                         
-                        
-                        for(int i = 0; i < 10; i++){
-                            for(int j = 0; j < 10; j++){
-                                System.out.print(grafo.get(i).get(j).getCusto()+" ");
-                            }
-                            System.out.println("");
-                        }
-                        
-                        caminho.forEach((x)->{System.out.println(x);});
                         
                         return caminho;
                     }
@@ -90,11 +77,16 @@ public class Estrela {
                 aberta.add(x);
             }
             
-            fechada.add(atual);
-            aberta.remove(atual);
-            //System.out.println(aberta.get(0).getId());
-            Collections.sort(aberta);
-            atual = aberta.get(0);
+               fechada.add(atual);
+                aberta.remove(atual);
+                
+                if(aberta.size() == 0 ){
+                JOptionPane.showMessageDialog(null, "Caminho Impossivel");
+                return null;
+            }
+             
+                Collections.sort(aberta);
+                atual = aberta.get(0);
             
     
         }

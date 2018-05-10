@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package estrelafoda.view;
-
-import estrelafoda.Estrela;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -25,7 +23,6 @@ public class Tela extends javax.swing.JFrame {
     public Tela() {
         initComponents();
         controllerTela = new ControllerTela(this);
-        
     }
 
     /**
@@ -2102,22 +2099,22 @@ public class Tela extends javax.swing.JFrame {
 
     private void jButtonGerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonGerarActionPerformed
         try {
-            controllerTela.gerarMapa();
+            controllerTela.gerarMapa(this.jTFDestino.getText());
         } catch (Exception ex) {
             Logger.getLogger(Tela.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_jButtonGerarActionPerformed
 
-    private void jButtonIniciarActionPerformed(java.awt.event.ActionEvent evt) {
-        //GEN-FIRST:event_jButtonIniciarActionPerformed
-
-        controllerTela.iniciarBusca();
-        
-        
+    private void jButtonIniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonIniciarActionPerformed
+        if(this.jTFDestino.getText() == null)
+            this.jTFDestino.setText("9x9");
+        controllerTela.iniciarBusca(this.jTFDestino.getText());
+       
     }//GEN-LAST:event_jButtonIniciarActionPerformed
 
     private void jButtonReiniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonReiniciarActionPerformed
-         controllerTela.resetarMapa();
+        controllerTela.resetarMapa();
+    
     }//GEN-LAST:event_jButtonReiniciarActionPerformed
 
     private void jTFDestinoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTFDestinoActionPerformed
@@ -2125,50 +2122,15 @@ public class Tela extends javax.swing.JFrame {
     }//GEN-LAST:event_jTFDestinoActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        
-        
-        try { 
+       
+        try {
             controllerTela.defineDestino(jTFDestino.getText());
         } catch (IOException ex) {
             Logger.getLogger(Tela.class.getName()).log(Level.SEVERE, null, ex);
         }
+       
     }//GEN-LAST:event_jButton1ActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
-        try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
-        } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Tela.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Tela.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Tela.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Tela.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        }
-        //</editor-fold>
-        //</editor-fold>
-
-        /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new Tela().setVisible(true);
-            }
-        });
-    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;

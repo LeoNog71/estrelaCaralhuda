@@ -37,11 +37,11 @@ public class ControllerTela {
     
    
     
-    public void iniciarBusca(){
+    public void iniciarBusca(String destino){
         
         
         
-            new estrelafoda.Estrela(a).busca().forEach((x)->{
+            new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
                 String aux[];
                 //System.out.println(x);
                 aux = x.split("x");
@@ -58,17 +58,10 @@ public class ControllerTela {
     }
     
     
-    public void teste (){
-        this.definirMatriz();
-        for(int i=0; i<10; i++)
-            for(int j=0; j<10; j++){
-                mapa[i][j].setBackground(Color.RED);
-            
-            }
-    }
+ 
     
     
-    public void gerarMapa(){
+    public void gerarMapa(String destino){
         
         List<List<Nodo>> grafo = this.a;
                 
@@ -104,7 +97,7 @@ public class ControllerTela {
                 if(i==0 && j==0){
                     mapa[i][j].setBackground(Color.BLUE);
                 }
-                if(i==9 && j==9){
+                if(destino.equals(String.valueOf(i)+"x"+String.valueOf(j))){
                     mapa[i][j].setBackground(Color.MAGENTA);
                 }     
                 
