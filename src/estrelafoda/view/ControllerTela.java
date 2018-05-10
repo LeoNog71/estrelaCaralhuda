@@ -92,6 +92,9 @@ public class ControllerTela {
                     case 1000:
                         mapa[i][j].setBackground(Color.BLACK);
                         break;
+                    default:
+                        mapa[i][j].setBackground(Color.RED);
+                        break;
                 }
                 
                 if(i==0 && j==0){
