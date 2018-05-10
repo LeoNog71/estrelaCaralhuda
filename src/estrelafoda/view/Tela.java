@@ -2102,7 +2102,7 @@ public class Tela extends javax.swing.JFrame {
 
     private void jButtonGerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonGerarActionPerformed
         try {
-           // controllerTela.gerarMapa();
+            controllerTela.gerarMapa();
         } catch (Exception ex) {
             Logger.getLogger(Tela.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -2117,7 +2117,7 @@ public class Tela extends javax.swing.JFrame {
     }//GEN-LAST:event_jButtonIniciarActionPerformed
 
     private void jButtonReiniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonReiniciarActionPerformed
-        controllerTela.resetarMapa();
+         controllerTela.resetarMapa();
     }//GEN-LAST:event_jButtonReiniciarActionPerformed
 
     private void jTFDestinoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTFDestinoActionPerformed

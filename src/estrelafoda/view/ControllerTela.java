@@ -22,6 +22,7 @@ public class ControllerTela {
     private Tela tela;
     private JPanel[][] mapa;
     private int velocidade;
+    List<List<Nodo>> a = new GeradorMatriz().getGrafo();
     
 
     private final Runtime run ;
@@ -38,7 +39,9 @@ public class ControllerTela {
     
     public void iniciarBusca(){
         
-            new estrelafoda.Estrela(new GeradorMatriz().getGrafo()).busca().forEach((x)->{
+        
+        
+            new estrelafoda.Estrela(a).busca().forEach((x)->{
                 String aux[];
                 //System.out.println(x);
                 aux = x.split("x");
@@ -65,9 +68,9 @@ public class ControllerTela {
     }
     
     
-    public void gerarMapa(List<List<Nodo>> grafo){
+    public void gerarMapa(){
         
-        
+        List<List<Nodo>> grafo = this.a;
                 
         tela.getjButtonIniciar().setEnabled(true);
         tela.getjButton1().setEnabled(true);
@@ -118,7 +121,7 @@ public class ControllerTela {
         
     }
     
-    public void resetarMapa(){
+    public List<List<Nodo>> resetarMapa(){
         tela.getjButton1().setEnabled(!true);
         tela.getjButtonIniciar().setEnabled(!true);
         tela.getjButtonGerar().setEnabled(true);
@@ -128,7 +131,7 @@ public class ControllerTela {
             }
         }
         tela.getjLabelFraseStatus().setText("Deve gerar mapa");
-        
+        return this.a = new GeradorMatriz().getGrafo();
     }
     
     public void definirMatriz(){
