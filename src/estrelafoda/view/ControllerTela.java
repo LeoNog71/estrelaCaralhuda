@@ -6,11 +6,13 @@
 package estrelafoda.view;
 
 
+import estrelafoda.Estrela;
 import estrelafoda.GeradorMatriz;
 import estrelafoda.Nodo;
 import java.awt.Color;
 import java.io.IOException;
 import java.util.List;
+import javafx.scene.Node;
 import javax.swing.JPanel;
 
 /**
@@ -23,7 +25,7 @@ public class ControllerTela {
     private JPanel[][] mapa;
     private int velocidade;
     List<List<Nodo>> a = new GeradorMatriz().getGrafo();
-    
+    Estrela foda ;
 
     private final Runtime run ;
     
@@ -35,13 +37,14 @@ public class ControllerTela {
         this.run = Runtime.getRuntime();
     }
     
-   
     
     public void iniciarBusca(String destino){
+            
+            foda = new estrelafoda.Estrela(a);
+            List<String> string = foda.busca(destino);
         
-        
-        
-            new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
+           // new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
+           string.forEach((x)->{
                 String aux[];
                 //System.out.println(x);
                 aux = x.split("x");
@@ -52,6 +55,8 @@ public class ControllerTela {
             tela.getjButtonIniciar().setEnabled(false);
             tela.getjButton1().setEnabled(true);
             tela.getjButtonGerar().setEnabled(!true);
+            tela.getjTextFielExp().setText(String.valueOf(foda.getI()));
+            tela.getjTextFieldCam().setText(String.valueOf(string.size()));
         
         
         

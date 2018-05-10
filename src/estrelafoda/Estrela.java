@@ -5,14 +5,9 @@
  */
 package estrelafoda;
 
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
@@ -20,7 +15,9 @@ import javax.swing.JOptionPane;
  * @author Boniolo
  */
 public class Estrela {
-    List<List<Nodo>> grafo;
+    
+    private List<List<Nodo>> grafo;
+    private int i = 0;
     
     public Estrela(List<List<Nodo>> grafo){
         this.grafo = grafo;
@@ -28,6 +25,10 @@ public class Estrela {
 
     public List<List<Nodo>> getGrafo() {
         return grafo;
+    }
+
+    public int getI() {
+        return i;
     }
     
     
@@ -37,7 +38,7 @@ public class Estrela {
         List<Nodo> fechada = new ArrayList<>();
         List<String> caminho = new ArrayList<>();
         
-        
+       
         Nodo inicial = this.grafo.get(0).get(0);
        
         
@@ -61,7 +62,7 @@ public class Estrela {
                         fechada = new ArrayList<>();
                         atual = grafo.get(0).get(0);
                         
-                        
+                        System.out.println(this.i);
                         return caminho;
                     }
                 }
@@ -71,7 +72,7 @@ public class Estrela {
             for(Nodo x : atual.getFilhos()){
                 if(fechada.contains(x))
                     continue;
-                
+                this.i++;
                 x.setPai(atual);
                 x.setValor(x.getCusto() + atual.getValor());
                 aberta.add(x);
