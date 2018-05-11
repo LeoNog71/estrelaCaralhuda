@@ -324,6 +324,8 @@ public class Tela extends javax.swing.JFrame {
             }
         });
 
+        jPanel108.setPreferredSize(new java.awt.Dimension(128, 98));
+
         jLabel3.setText("Sólido: ");
 
         jPanel29.setBackground(new java.awt.Color(255, 255, 255));
@@ -524,7 +526,8 @@ public class Tela extends javax.swing.JFrame {
                                 .addComponent(jLabelTitulo)
                                 .addGap(0, 0, Short.MAX_VALUE)))))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jPanel108, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addComponent(jPanel108, javax.swing.GroupLayout.PREFERRED_SIZE, 122, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap())
         );
         jPanelMenuLayout.setVerticalGroup(
             jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
