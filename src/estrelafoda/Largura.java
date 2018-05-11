@@ -26,35 +26,44 @@ public class Largura {
     }
     public List<String> largura(String destino) throws InterruptedException{
         
+                
         Nodo inicial = this.grafo.get(0).get(0);
         List<String> caminho = new ArrayList<>();
         Queue<Nodo> fila = new Queue<>();
         fila.enqueue(inicial);
         Nodo atual = fila.dequeue();
-        while(!atual.getId().equals(destino)){
+        while(true){
             
+             //System.out.println(atual.getId());
             
-            for(Nodo x:atual.getFilhos()){
+            if(atual.getId().equals(destino)){
+                while(true){
+                    //System.out.println(atual.getValor());
+                    caminho.add(atual.getId());
+                    atual = atual.getPai();
+
+                    if(atual.getId().equals("0x0")){
+
+                        Collections.reverse(caminho);
+                        atual = grafo.get(0).get(0);
+
+
+                        return caminho;
+                    }
+                }
+            }
+                
+            for(Nodo x: atual.getFilhos()){
+               
                 x.setPai(atual);
                 fila.enqueue(x);
             }
             atual = fila.dequeue();
+            
 
             
         }
-        while(true){
-                    //System.out.println(atual.getValor());
-                    caminho.add(atual.getId());
-                    atual = atual.getPai();
-                    
-                    if(atual.getId().equals("0x0")){
-                        
-                        Collections.reverse(caminho);
-                        atual = grafo.get(0).get(0);
-                        
-                        
-                        return caminho;
-                    }
-                }
+        
+        //return caminho;
     }
 }
