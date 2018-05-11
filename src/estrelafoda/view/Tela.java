@@ -25,6 +25,9 @@ public class Tela extends javax.swing.JFrame {
         initComponents();
         controllerTela = new ControllerTela(this);
         this.jTFDestino.setText("9x9");
+        this.buttonGroup1.add(botaoAestrela);
+        this.buttonGroup1.add(botaoLargura);
+        this.botaoAestrela.setSelected(true);
     }
 
     /**
@@ -36,6 +39,7 @@ public class Tela extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        buttonGroup1 = new javax.swing.ButtonGroup();
         jPanelMenu = new javax.swing.JPanel();
         jLabelTitulo = new javax.swing.JLabel();
         jButtonGerar = new javax.swing.JButton();
@@ -168,6 +172,8 @@ public class Tela extends javax.swing.JFrame {
         jPanel99 = new javax.swing.JPanel();
         jPanel100 = new javax.swing.JPanel();
         jPanel38 = new javax.swing.JPanel();
+        botaoAestrela = new javax.swing.JRadioButton();
+        botaoLargura = new javax.swing.JRadioButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Trabalho LFA");
@@ -487,7 +493,7 @@ public class Tela extends javax.swing.JFrame {
                                 .addComponent(jLabel1)
                                 .addGap(9, 9, 9)
                                 .addComponent(jLabelFraseStatus)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 16, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(jPanel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jPanel108, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -2292,6 +2298,10 @@ public class Tela extends javax.swing.JFrame {
                     .addComponent(jPanel98, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
         );
 
+        botaoAestrela.setText("A *");
+
+        botaoLargura.setText("Largura");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -2300,14 +2310,26 @@ public class Tela extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(63, 63, 63)
                 .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, 580, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(botaoAestrela)
+                    .addComponent(botaoLargura))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(jPanelMenu, javax.swing.GroupLayout.PREFERRED_SIZE, 143, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(32, 32, 32)
+                        .addComponent(botaoAestrela)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(botaoLargura)
+                        .addGap(0, 0, Short.MAX_VALUE))))
         );
 
         pack();
@@ -2328,7 +2350,16 @@ public class Tela extends javax.swing.JFrame {
     private void jButtonIniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonIniciarActionPerformed
         if(this.jTFDestino.getText() == null)
             this.jTFDestino.setText("9x9");
-        controllerTela.iniciarBusca(this.jTFDestino.getText());
+        if(buttonGroup1.getSelection() == botaoAestrela){
+            controllerTela.iniciarBusca(this.jTFDestino.getText());
+        }else{
+            try {
+                controllerTela.iniciarBuscaLargura(this.jTFDestino.getText());
+            } catch (InterruptedException ex) {
+                Logger.getLogger(Tela.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        
        
     }//GEN-LAST:event_jButtonIniciarActionPerformed
 
@@ -2373,6 +2404,9 @@ public class Tela extends javax.swing.JFrame {
     
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JRadioButton botaoAestrela;
+    private javax.swing.JRadioButton botaoLargura;
+    private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButtonGerar;
     private javax.swing.JButton jButtonIniciar;

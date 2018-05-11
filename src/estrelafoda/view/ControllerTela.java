@@ -8,6 +8,7 @@ package estrelafoda.view;
 
 import estrelafoda.Estrela;
 import estrelafoda.GeradorMatriz;
+import estrelafoda.Largura;
 import estrelafoda.Nodo;
 import java.awt.Color;
 import java.io.IOException;
@@ -25,8 +26,8 @@ public class ControllerTela {
     private JPanel[][] mapa;
     private int velocidade;
     List<List<Nodo>> a = new GeradorMatriz().getGrafo();
-    Estrela foda ;
-
+    Estrela estrela ;
+    Largura largura;
     private final Runtime run ;
     
     public ControllerTela(Tela tela){
@@ -40,8 +41,8 @@ public class ControllerTela {
     
     public void iniciarBusca(String destino){
             
-            foda = new estrelafoda.Estrela(a);
-            List<String> string = foda.busca(destino);
+            estrela = new estrelafoda.Estrela(a);
+            List<String> string = estrela.busca(destino);
         
            // new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
            string.forEach((x)->{
@@ -55,13 +56,35 @@ public class ControllerTela {
             tela.getjButtonIniciar().setEnabled(false);
             tela.getjButton1().setEnabled(true);
             tela.getjButtonGerar().setEnabled(!true);
-            tela.getjTextFielExp().setText(String.valueOf(foda.getI()));
+            tela.getjTextFielExp().setText(String.valueOf(estrela.getI()));
             tela.getjTextFieldCam().setText(String.valueOf(string.size()));
         
         
         
     }
-    
+    public void iniciarBuscaLargura(String destino) throws InterruptedException{
+            
+            largura = new estrelafoda.Largura(a);
+            List<String> string = largura.largura(destino);
+        
+           // new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
+           string.forEach((x)->{
+                String aux[];
+                //System.out.println(x);
+                aux = x.split("x");
+                this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+            });
+            //this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+            
+            tela.getjButtonIniciar().setEnabled(false);
+            tela.getjButton1().setEnabled(true);
+            tela.getjButtonGerar().setEnabled(!true);
+            tela.getjTextFielExp().setText(String.valueOf(largura.getI()));
+            tela.getjTextFieldCam().setText(String.valueOf(string.size()));
+        
+        
+        
+    }
     
  
     
