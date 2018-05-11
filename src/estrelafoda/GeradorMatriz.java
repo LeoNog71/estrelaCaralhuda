@@ -20,7 +20,7 @@ public class GeradorMatriz {
     
     
     private Integer[][] geradorNum(){
-        Integer[] terrenos = {1,20,4,1000,10,1,4,10,20,1,20,4,1000,-1000};
+        Integer[] terrenos = {1,20,4,1000,10,1,4,10,20,1,20,4,1,-1000};
         Integer[][] matriz = new Integer[10][10];
         Integer teste;
         

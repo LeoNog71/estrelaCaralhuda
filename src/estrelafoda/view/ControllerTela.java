@@ -53,10 +53,17 @@ public class ControllerTela {
                 aux = x.split("x");
                 ((JLabel)(mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/agente.png"));
             });
+            Integer x = 0;
+            Integer y = 0;
+            String vet[]= destino.split("x");
             
             
-           
-            //this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+            x = Integer.valueOf(vet[0]);
+            y = Integer.valueOf(vet[1]);
+            
+            
+            ((JLabel)(mapa[x][y].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/recompensa.png"));
+             
             
             tela.getjButtonIniciar().setEnabled(false);
             tela.getjButton1().setEnabled(true);
@@ -83,10 +90,17 @@ public class ControllerTela {
                
             });
            
-           
-           
-            //this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+           Integer x = 0;
+            Integer y = 0;
+            String vet[]= destino.split("x");
             
+            
+            x = Integer.valueOf(vet[0]);
+            y = Integer.valueOf(vet[1]);
+            
+            
+            ((JLabel)(mapa[x][y].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/recompensa.png"));
+               
             tela.getjButtonIniciar().setEnabled(false);
             tela.getjButton1().setEnabled(true);
             tela.getjButtonGerar().setEnabled(!true);
@@ -133,12 +147,12 @@ public class ControllerTela {
                         ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon(("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/parede.png")));
                         break;
                     default:
-                       // ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/moeda.png"));
-                       // break;
+                        ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/moeda.png"));
+                        break;
                 }
                 
                 if(i==0 && j==0){
-                    mapa[i][j].setBackground(Color.BLUE);
+                    ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/agente.png"));
                 }
                 if(destino.equals(String.valueOf(i)+"x"+String.valueOf(j))){
                     mapa[i][j].setBackground(Color.WHITE);
