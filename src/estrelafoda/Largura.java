@@ -50,14 +50,17 @@ public class Largura {
 
                         Collections.reverse(caminho);
                         atual = grafo.get(0).get(0);
-
-
+                        
+                        System.out.println("largura");
+                        
                         return caminho;
                     }
                 }
             }
-                
+            
+               
             for(Nodo x: atual.getFilhos()){
+               
                 if(fechada.contains(x))
                     continue;
                 this.i++;
@@ -65,11 +68,14 @@ public class Largura {
                 fila.enqueue(x);
                 fechada.add(x);
             }
-            atual = fila.dequeue();
-            /*if(fila.isEmpty()){
+            if(fila.isEmpty()){
                 JOptionPane.showMessageDialog(null, "Caminho Impossivel");
-                return null;
-            }*/
+                caminho.add(this.grafo.get(0).get(0).getId());
+                System.out.println("largura");
+                return caminho;
+            }
+            atual = fila.dequeue();
+            
 
             
         }

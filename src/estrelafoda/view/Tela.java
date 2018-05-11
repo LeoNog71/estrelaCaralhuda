@@ -2350,7 +2350,8 @@ public class Tela extends javax.swing.JFrame {
     private void jButtonIniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonIniciarActionPerformed
         if(this.jTFDestino.getText() == null)
             this.jTFDestino.setText("9x9");
-        if(buttonGroup1.getSelection() == botaoAestrela){
+        
+        if(this.botaoAestrela.isSelected()){
             controllerTela.iniciarBusca(this.jTFDestino.getText());
         }else{
             try {
@@ -2367,6 +2368,8 @@ public class Tela extends javax.swing.JFrame {
         controllerTela.resetarMapa();
         jTFDestino.setEnabled(true);
         jButton1.setEnabled(true);
+        jTextFielExp.setText("");
+        jTextFieldCam.setText("");
     
     }//GEN-LAST:event_jButtonReiniciarActionPerformed
 

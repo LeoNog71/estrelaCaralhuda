@@ -77,14 +77,18 @@ public class Estrela {
                 x.setValor(x.getCusto() + atual.getValor());
                 aberta.add(x);
             }
-            
+               
                fechada.add(atual);
                 aberta.remove(atual);
+                System.out.println("");
                 
-                if(aberta.size() == 0 ){
-                JOptionPane.showMessageDialog(null, "Caminho Impossivel");
-                return null;
-            }
+                if(aberta.isEmpty() ){
+                    
+                    JOptionPane.showMessageDialog(null, "Caminho Impossivel");
+                    caminho.add(this.grafo.get(0).get(0).getId());
+                    return caminho;
+                }
+                
              
                 Collections.sort(aberta);
                 atual = aberta.get(0);
