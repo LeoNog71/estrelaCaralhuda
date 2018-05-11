@@ -14,6 +14,8 @@ import java.awt.Color;
 import java.io.IOException;
 import java.util.List;
 import javafx.scene.Node;
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 /**
@@ -49,8 +51,11 @@ public class ControllerTela {
                 String aux[];
                 //System.out.println(x);
                 aux = x.split("x");
-                this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+                ((JLabel)(mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/agente.png"));
             });
+            
+            
+           
             //this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
             
             tela.getjButtonIniciar().setEnabled(false);
@@ -68,12 +73,18 @@ public class ControllerTela {
             List<String> string = largura.largura(destino);
         
            // new estrelafoda.Estrela(a).busca(destino).forEach((x)->{
+           
+           
            string.forEach((x)->{
                 String aux[];
                 //System.out.println(x);
                 aux = x.split("x");
-                this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
+                ((JLabel)(mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/agente.png"));
+               
             });
+           
+           
+           
             //this.mapa[Integer.valueOf(aux[0])][Integer.valueOf(aux[1])].setBackground(Color.BLUE);
             
             tela.getjButtonIniciar().setEnabled(false);
@@ -118,18 +129,20 @@ public class ControllerTela {
                         mapa[i][j].setBackground(Color.GREEN);
                         break;
                     case 1000:
-                        mapa[i][j].setBackground(Color.BLACK);
+                        mapa[i][j].setBackground(Color.WHITE);
+                        ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon(("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/parede.png")));
                         break;
                     default:
-                        mapa[i][j].setBackground(Color.RED);
-                        break;
+                       // ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/moeda.png"));
+                       // break;
                 }
                 
                 if(i==0 && j==0){
                     mapa[i][j].setBackground(Color.BLUE);
                 }
                 if(destino.equals(String.valueOf(i)+"x"+String.valueOf(j))){
-                    mapa[i][j].setBackground(Color.MAGENTA);
+                    mapa[i][j].setBackground(Color.WHITE);
+                    ((JLabel)(mapa[i][j].getComponent(0))).setIcon(new ImageIcon("/home/nogueira/NetBeansProjects/estrelaCaralhuda/src/estrelafoda/imagens/recompensa.png"));
                 }     
                 
             }
@@ -151,7 +164,10 @@ public class ControllerTela {
         tela.getjButtonGerar().setEnabled(true);
         for(int i = 0; i<10;i++){
             for(int j=0;j<10;j++){
+                 ((JLabel)(mapa[i][j].getComponent(0))).setIcon(null);
                 mapa[i][j].setBackground(Color.LIGHT_GRAY);
+                
+                
             }
         }
         tela.getjLabelFraseStatus().setText("Deve gerar mapa");

@@ -59,13 +59,7 @@ public class Tela extends javax.swing.JFrame {
         jPanel103 = new javax.swing.JPanel();
         jLabel7 = new javax.swing.JLabel();
         jPanel104 = new javax.swing.JPanel();
-        jLabel9 = new javax.swing.JLabel();
-        jPanel105 = new javax.swing.JPanel();
         jPanel102 = new javax.swing.JPanel();
-        jLabel10 = new javax.swing.JLabel();
-        jPanel106 = new javax.swing.JPanel();
-        jPanel107 = new javax.swing.JPanel();
-        jLabel11 = new javax.swing.JLabel();
         jPanel109 = new javax.swing.JPanel();
         jLabel6 = new javax.swing.JLabel();
         jTextFielExp = new javax.swing.JTextField();
@@ -73,105 +67,205 @@ public class Tela extends javax.swing.JFrame {
         jTextFieldCam = new javax.swing.JTextField();
         jPanelMenu2 = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
+        jLabel1x1 = new javax.swing.JLabel();
         jPanel2 = new javax.swing.JPanel();
+        jLabel1x2 = new javax.swing.JLabel();
         jPanel3 = new javax.swing.JPanel();
+        jLabel1x3 = new javax.swing.JLabel();
         jPanel4 = new javax.swing.JPanel();
+        jLabel1x4 = new javax.swing.JLabel();
         jPanel6 = new javax.swing.JPanel();
+        jLabel1x5 = new javax.swing.JLabel();
         jPanel5 = new javax.swing.JPanel();
+        jLabel1x6 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
+        jLabel1x7 = new javax.swing.JLabel();
         jPanel8 = new javax.swing.JPanel();
+        jLabel1x8 = new javax.swing.JLabel();
         jPanel9 = new javax.swing.JPanel();
+        jLabel1x9 = new javax.swing.JLabel();
         jPanel10 = new javax.swing.JPanel();
+        jLabel1x10 = new javax.swing.JLabel();
         jPanel11 = new javax.swing.JPanel();
+        jLabel1x11 = new javax.swing.JLabel();
         jPanel12 = new javax.swing.JPanel();
+        jLabel1x12 = new javax.swing.JLabel();
         jPanel13 = new javax.swing.JPanel();
+        jLabel1x13 = new javax.swing.JLabel();
         jPanel14 = new javax.swing.JPanel();
+        jLabel1x14 = new javax.swing.JLabel();
         jPanel15 = new javax.swing.JPanel();
+        jLabel1x15 = new javax.swing.JLabel();
         jPanel16 = new javax.swing.JPanel();
+        jLabel1x16 = new javax.swing.JLabel();
         jPanel17 = new javax.swing.JPanel();
+        jLabel1x17 = new javax.swing.JLabel();
         jPanel18 = new javax.swing.JPanel();
+        jLabel1x18 = new javax.swing.JLabel();
         jPanel19 = new javax.swing.JPanel();
+        jLabel1x19 = new javax.swing.JLabel();
         jPanel20 = new javax.swing.JPanel();
+        jLabel1x20 = new javax.swing.JLabel();
         jPanel21 = new javax.swing.JPanel();
+        jLabel1x21 = new javax.swing.JLabel();
         jPanel22 = new javax.swing.JPanel();
+        jLabel1x22 = new javax.swing.JLabel();
         jPanel23 = new javax.swing.JPanel();
+        jLabel1x23 = new javax.swing.JLabel();
         jPanel24 = new javax.swing.JPanel();
+        jLabel1x24 = new javax.swing.JLabel();
         jPanel26 = new javax.swing.JPanel();
+        jLabel1x25 = new javax.swing.JLabel();
         jPanel25 = new javax.swing.JPanel();
+        jLabel1x26 = new javax.swing.JLabel();
         jPanel27 = new javax.swing.JPanel();
+        jLabel1x27 = new javax.swing.JLabel();
         jPanel28 = new javax.swing.JPanel();
+        jLabel1x28 = new javax.swing.JLabel();
         jPanel146 = new javax.swing.JPanel();
+        jLabel1x29 = new javax.swing.JLabel();
         jPanel30 = new javax.swing.JPanel();
+        jLabel1x30 = new javax.swing.JLabel();
         jPanel31 = new javax.swing.JPanel();
+        jLabel1x31 = new javax.swing.JLabel();
         jPanel32 = new javax.swing.JPanel();
+        jLabel1x32 = new javax.swing.JLabel();
         jPanel33 = new javax.swing.JPanel();
+        jLabel1x33 = new javax.swing.JLabel();
         jPanel34 = new javax.swing.JPanel();
+        jLabel1x34 = new javax.swing.JLabel();
         jPanel35 = new javax.swing.JPanel();
+        jLabel1x35 = new javax.swing.JLabel();
         jPanel36 = new javax.swing.JPanel();
+        jLabel1x36 = new javax.swing.JLabel();
         jPanel37 = new javax.swing.JPanel();
+        jLabel1x37 = new javax.swing.JLabel();
         jPanel39 = new javax.swing.JPanel();
+        jLabel1x38 = new javax.swing.JLabel();
         jPanel40 = new javax.swing.JPanel();
+        jLabel1x39 = new javax.swing.JLabel();
         jPanel41 = new javax.swing.JPanel();
+        jLabel1x40 = new javax.swing.JLabel();
         jPanel42 = new javax.swing.JPanel();
+        jLabel1x41 = new javax.swing.JLabel();
         jPanel43 = new javax.swing.JPanel();
+        jLabel1x42 = new javax.swing.JLabel();
         jPanel44 = new javax.swing.JPanel();
+        jLabel1x43 = new javax.swing.JLabel();
         jPanel46 = new javax.swing.JPanel();
+        jLabel1x44 = new javax.swing.JLabel();
         jPanel45 = new javax.swing.JPanel();
+        jLabel1x45 = new javax.swing.JLabel();
         jPanel47 = new javax.swing.JPanel();
+        jLabel1x46 = new javax.swing.JLabel();
         jPanel48 = new javax.swing.JPanel();
+        jLabel1x47 = new javax.swing.JLabel();
         jPanel49 = new javax.swing.JPanel();
+        jLabel1x48 = new javax.swing.JLabel();
         jPanel50 = new javax.swing.JPanel();
+        jLabel1x49 = new javax.swing.JLabel();
         jPanel51 = new javax.swing.JPanel();
+        jLabel1x50 = new javax.swing.JLabel();
         jPanel52 = new javax.swing.JPanel();
+        jLabel1x51 = new javax.swing.JLabel();
         jPanel53 = new javax.swing.JPanel();
+        jLabel1x52 = new javax.swing.JLabel();
         jPanel54 = new javax.swing.JPanel();
+        jLabel1x53 = new javax.swing.JLabel();
         jPanel55 = new javax.swing.JPanel();
+        jLabel1x54 = new javax.swing.JLabel();
         jPanel56 = new javax.swing.JPanel();
+        jLabel1x55 = new javax.swing.JLabel();
         jPanel57 = new javax.swing.JPanel();
+        jLabel1x56 = new javax.swing.JLabel();
         jPanel58 = new javax.swing.JPanel();
+        jLabel1x57 = new javax.swing.JLabel();
         jPanel59 = new javax.swing.JPanel();
+        jLabel1x58 = new javax.swing.JLabel();
         jPanel60 = new javax.swing.JPanel();
+        jLabel1x59 = new javax.swing.JLabel();
         jPanel61 = new javax.swing.JPanel();
+        jLabel1x60 = new javax.swing.JLabel();
         jPanel62 = new javax.swing.JPanel();
+        jLabel1x61 = new javax.swing.JLabel();
         jPanel63 = new javax.swing.JPanel();
+        jLabel1x62 = new javax.swing.JLabel();
         jPanel64 = new javax.swing.JPanel();
+        jLabel1x63 = new javax.swing.JLabel();
         jPanel66 = new javax.swing.JPanel();
+        jLabel1x64 = new javax.swing.JLabel();
         jPanel65 = new javax.swing.JPanel();
+        jLabel1x65 = new javax.swing.JLabel();
         jPanel67 = new javax.swing.JPanel();
+        jLabel1x66 = new javax.swing.JLabel();
         jPanel68 = new javax.swing.JPanel();
+        jLabel1x67 = new javax.swing.JLabel();
         jPanel69 = new javax.swing.JPanel();
+        jLabel1x68 = new javax.swing.JLabel();
         jPanel70 = new javax.swing.JPanel();
+        jLabel1x69 = new javax.swing.JLabel();
         jPanel71 = new javax.swing.JPanel();
+        jLabel1x70 = new javax.swing.JLabel();
         jPanel72 = new javax.swing.JPanel();
+        jLabel1x71 = new javax.swing.JLabel();
         jPanel73 = new javax.swing.JPanel();
+        jLabel1x72 = new javax.swing.JLabel();
         jPanel74 = new javax.swing.JPanel();
+        jLabel1x73 = new javax.swing.JLabel();
         jPanel75 = new javax.swing.JPanel();
+        jLabel1x74 = new javax.swing.JLabel();
         jPanel76 = new javax.swing.JPanel();
+        jLabel1x75 = new javax.swing.JLabel();
         jPanel77 = new javax.swing.JPanel();
+        jLabel1x76 = new javax.swing.JLabel();
         jPanel78 = new javax.swing.JPanel();
+        jLabel1x77 = new javax.swing.JLabel();
         jPanel79 = new javax.swing.JPanel();
+        jLabel1x78 = new javax.swing.JLabel();
         jPanel80 = new javax.swing.JPanel();
+        jLabel1x79 = new javax.swing.JLabel();
         jPanel81 = new javax.swing.JPanel();
+        jLabel1x80 = new javax.swing.JLabel();
         jPanel82 = new javax.swing.JPanel();
+        jLabel1x81 = new javax.swing.JLabel();
         jPanel83 = new javax.swing.JPanel();
+        jLabel1x82 = new javax.swing.JLabel();
         jPanel84 = new javax.swing.JPanel();
+        jLabel1x83 = new javax.swing.JLabel();
         jPanel86 = new javax.swing.JPanel();
+        jLabel1x84 = new javax.swing.JLabel();
         jPanel85 = new javax.swing.JPanel();
+        jLabel1x85 = new javax.swing.JLabel();
         jPanel87 = new javax.swing.JPanel();
+        jLabel1x86 = new javax.swing.JLabel();
         jPanel88 = new javax.swing.JPanel();
+        jLabel1x87 = new javax.swing.JLabel();
         jPanel89 = new javax.swing.JPanel();
+        jLabel1x88 = new javax.swing.JLabel();
         jPanel90 = new javax.swing.JPanel();
+        jLabel1x89 = new javax.swing.JLabel();
         jPanel91 = new javax.swing.JPanel();
+        jLabel1x90 = new javax.swing.JLabel();
         jPanel92 = new javax.swing.JPanel();
+        jLabel1x91 = new javax.swing.JLabel();
         jPanel93 = new javax.swing.JPanel();
+        jLabel1x92 = new javax.swing.JLabel();
         jPanel94 = new javax.swing.JPanel();
+        jLabel1x93 = new javax.swing.JLabel();
         jPanel95 = new javax.swing.JPanel();
+        jLabel1x94 = new javax.swing.JLabel();
         jPanel96 = new javax.swing.JPanel();
+        jLabel1x95 = new javax.swing.JLabel();
         jPanel97 = new javax.swing.JPanel();
+        jLabel1x96 = new javax.swing.JLabel();
         jPanel98 = new javax.swing.JPanel();
+        jLabel1x97 = new javax.swing.JLabel();
         jPanel99 = new javax.swing.JPanel();
+        jLabel1x98 = new javax.swing.JLabel();
         jPanel100 = new javax.swing.JPanel();
+        jLabel1x99 = new javax.swing.JLabel();
         jPanel38 = new javax.swing.JPanel();
+        jLabel1x100 = new javax.swing.JLabel();
         botaoAestrela = new javax.swing.JRadioButton();
         botaoLargura = new javax.swing.JRadioButton();
 
@@ -296,22 +390,6 @@ public class Tela extends javax.swing.JFrame {
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
-        jLabel9.setText("Recompensa:");
-
-        jPanel105.setBackground(new java.awt.Color(255, 0, 0));
-        jPanel105.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-
-        javax.swing.GroupLayout jPanel105Layout = new javax.swing.GroupLayout(jPanel105);
-        jPanel105.setLayout(jPanel105Layout);
-        jPanel105Layout.setHorizontalGroup(
-            jPanel105Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 15, Short.MAX_VALUE)
-        );
-        jPanel105Layout.setVerticalGroup(
-            jPanel105Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 14, Short.MAX_VALUE)
-        );
-
         javax.swing.GroupLayout jPanel108Layout = new javax.swing.GroupLayout(jPanel108);
         jPanel108.setLayout(jPanel108Layout);
         jPanel108Layout.setHorizontalGroup(
@@ -319,14 +397,12 @@ public class Tela extends javax.swing.JFrame {
             .addGroup(jPanel108Layout.createSequentialGroup()
                 .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel108Layout.createSequentialGroup()
-                        .addContainerGap()
+                        .addGap(36, 36, 36)
                         .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(jLabel7)
-                            .addComponent(jLabel9)
                             .addComponent(jLabel5))
                         .addGap(18, 18, 18)
                         .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jPanel105, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel108Layout.createSequentialGroup()
                                 .addGap(0, 0, Short.MAX_VALUE)
                                 .addComponent(jPanel103, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -336,7 +412,7 @@ public class Tela extends javax.swing.JFrame {
                         .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel108Layout.createSequentialGroup()
                                 .addComponent(jLabel3)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addGap(18, 18, 18)
                                 .addComponent(jPanel29, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel108Layout.createSequentialGroup()
                                 .addComponent(jLabel4)
@@ -366,72 +442,18 @@ public class Tela extends javax.swing.JFrame {
                 .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(jLabel7, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jPanel104, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(jPanel108Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel9)
-                    .addComponent(jPanel105, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-
-        jLabel10.setText("Agente:");
-
-        jPanel106.setBackground(new java.awt.Color(0, 0, 204));
-        jPanel106.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        jPanel106.setPreferredSize(new java.awt.Dimension(17, 14));
-
-        javax.swing.GroupLayout jPanel106Layout = new javax.swing.GroupLayout(jPanel106);
-        jPanel106.setLayout(jPanel106Layout);
-        jPanel106Layout.setHorizontalGroup(
-            jPanel106Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 15, Short.MAX_VALUE)
-        );
-        jPanel106Layout.setVerticalGroup(
-            jPanel106Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 15, Short.MAX_VALUE)
-        );
-
-        jPanel107.setBackground(new java.awt.Color(255, 0, 204));
-        jPanel107.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        jPanel107.setPreferredSize(new java.awt.Dimension(17, 14));
-
-        javax.swing.GroupLayout jPanel107Layout = new javax.swing.GroupLayout(jPanel107);
-        jPanel107.setLayout(jPanel107Layout);
-        jPanel107Layout.setHorizontalGroup(
-            jPanel107Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 15, Short.MAX_VALUE)
-        );
-        jPanel107Layout.setVerticalGroup(
-            jPanel107Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 15, Short.MAX_VALUE)
-        );
-
-        jLabel11.setText("Destino:");
 
         javax.swing.GroupLayout jPanel102Layout = new javax.swing.GroupLayout(jPanel102);
         jPanel102.setLayout(jPanel102Layout);
         jPanel102Layout.setHorizontalGroup(
             jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel102Layout.createSequentialGroup()
-                .addGroup(jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel11)
-                    .addComponent(jLabel10))
-                .addGap(4, 4, 4)
-                .addGroup(jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jPanel106, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jPanel107, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(0, 24, Short.MAX_VALUE))
+            .addGap(0, 103, Short.MAX_VALUE)
         );
         jPanel102Layout.setVerticalGroup(
             jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel102Layout.createSequentialGroup()
-                .addGroup(jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel10)
-                    .addComponent(jPanel106, javax.swing.GroupLayout.PREFERRED_SIZE, 17, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(15, 15, 15)
-                .addGroup(jPanel102Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel11)
-                    .addComponent(jPanel107, javax.swing.GroupLayout.PREFERRED_SIZE, 17, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGap(0, 61, Short.MAX_VALUE)
         );
 
         jLabel6.setText("EXP: ");
@@ -476,57 +498,61 @@ public class Tela extends javax.swing.JFrame {
                     .addComponent(jButtonReiniciar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanelMenuLayout.createSequentialGroup()
-                        .addGap(192, 192, 192)
-                        .addComponent(jLabelTitulo)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(jPanel102, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(jPanelMenuLayout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(jPanelMenuLayout.createSequentialGroup()
-                                .addComponent(jLabel2)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jTFDestino, javax.swing.GroupLayout.PREFERRED_SIZE, 89, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jButton1))
+                                .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                    .addGroup(jPanelMenuLayout.createSequentialGroup()
+                                        .addComponent(jLabel2)
+                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                        .addComponent(jTFDestino, javax.swing.GroupLayout.PREFERRED_SIZE, 89, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                        .addComponent(jButton1))
+                                    .addGroup(jPanelMenuLayout.createSequentialGroup()
+                                        .addComponent(jLabel1)
+                                        .addGap(9, 9, 9)
+                                        .addComponent(jLabelFraseStatus)))
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(jPanel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(jPanelMenuLayout.createSequentialGroup()
-                                .addComponent(jLabel1)
-                                .addGap(9, 9, 9)
-                                .addComponent(jLabelFraseStatus)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jPanel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                                .addGap(168, 168, 168)
+                                .addComponent(jLabelTitulo)
+                                .addGap(0, 0, Short.MAX_VALUE)))))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jPanel108, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
         jPanelMenuLayout.setVerticalGroup(
             jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanelMenuLayout.createSequentialGroup()
+                .addGap(18, 18, 18)
                 .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabelTitulo)
-                    .addGroup(jPanelMenuLayout.createSequentialGroup()
-                        .addGap(23, 23, 23)
-                        .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(jPanelMenuLayout.createSequentialGroup()
-                                .addComponent(jPanel102, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jPanel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addComponent(jPanel108, javax.swing.GroupLayout.PREFERRED_SIZE, 112, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                .addGroup(jPanelMenuLayout.createSequentialGroup()
-                                    .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                        .addComponent(jButton1)
-                                        .addComponent(jTFDestino, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addComponent(jLabel2))
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                        .addComponent(jLabel1)
-                                        .addComponent(jLabelFraseStatus)))
-                                .addGroup(jPanelMenuLayout.createSequentialGroup()
-                                    .addComponent(jButtonGerar)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(jButtonIniciar)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(jButtonReiniciar))))))
+                    .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                        .addGroup(jPanelMenuLayout.createSequentialGroup()
+                            .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jButton1)
+                                .addComponent(jTFDestino, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jLabel2))
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jLabel1)
+                                .addComponent(jLabelFraseStatus)))
+                        .addGroup(jPanelMenuLayout.createSequentialGroup()
+                            .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jButtonGerar)
+                                .addComponent(jLabelTitulo))
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addComponent(jButtonIniciar)
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addComponent(jButtonReiniciar)))
+                    .addGroup(jPanelMenuLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                        .addComponent(jPanel108, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
+                        .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanelMenuLayout.createSequentialGroup()
+                            .addComponent(jPanel102, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addComponent(jPanel109, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
@@ -542,11 +568,11 @@ public class Tela extends javax.swing.JFrame {
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 46, Short.MAX_VALUE)
+            .addComponent(jLabel1x1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
+            .addComponent(jLabel1x1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
         jPanel2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -557,10 +583,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x2, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x2, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel3.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -571,10 +601,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x3, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x3, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -585,10 +619,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel4Layout.setHorizontalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x4, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x4, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -599,10 +637,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel6Layout.setHorizontalGroup(
             jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x5, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel6Layout.setVerticalGroup(
             jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x5, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel5.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -613,10 +655,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel5Layout.setHorizontalGroup(
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x6, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel5Layout.setVerticalGroup(
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x6, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel7.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -627,10 +673,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel7Layout.setHorizontalGroup(
             jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x7, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel7Layout.setVerticalGroup(
             jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x7, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel8.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -641,10 +691,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel8Layout.setHorizontalGroup(
             jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x8, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel8Layout.setVerticalGroup(
             jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x8, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel9.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -655,10 +709,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel9Layout.setHorizontalGroup(
             jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x9, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel9Layout.setVerticalGroup(
             jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x9, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -669,10 +727,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel10Layout.setHorizontalGroup(
             jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x10, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel10Layout.setVerticalGroup(
             jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x10, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -683,10 +745,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel11Layout.setHorizontalGroup(
             jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x11, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel11Layout.setVerticalGroup(
             jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x11, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel12.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -697,10 +763,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel12Layout.setHorizontalGroup(
             jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x12, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel12Layout.setVerticalGroup(
             jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x12, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel13.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -711,10 +781,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel13Layout.setHorizontalGroup(
             jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x13, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel13Layout.setVerticalGroup(
             jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x13, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel14.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -725,10 +799,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel14Layout.setHorizontalGroup(
             jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x14, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel14Layout.setVerticalGroup(
             jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x14, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel15.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -739,10 +817,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel15Layout.setHorizontalGroup(
             jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x15, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel15Layout.setVerticalGroup(
             jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x15, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel16.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -753,10 +835,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel16Layout.setHorizontalGroup(
             jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x16, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel16Layout.setVerticalGroup(
             jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x16, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel17.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -767,10 +853,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel17Layout.setHorizontalGroup(
             jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x17, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel17Layout.setVerticalGroup(
             jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x17, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel18.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -781,10 +871,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel18Layout.setHorizontalGroup(
             jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x18, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel18Layout.setVerticalGroup(
             jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 45, Short.MAX_VALUE)
+            .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x18, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel19.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -795,10 +889,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel19Layout.setHorizontalGroup(
             jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x19, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel19Layout.setVerticalGroup(
             jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x19, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel20.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -809,10 +907,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel20Layout.setHorizontalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x20, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel20Layout.setVerticalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x20, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel21.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -823,10 +925,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel21Layout.setHorizontalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x21, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel21Layout.setVerticalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x21, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel22.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -837,10 +943,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel22Layout.setHorizontalGroup(
             jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x22, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel22Layout.setVerticalGroup(
             jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x22, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel23.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -851,10 +961,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel23Layout.setHorizontalGroup(
             jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x23, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel23Layout.setVerticalGroup(
             jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x23, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel24.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -865,10 +979,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel24Layout.setHorizontalGroup(
             jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x24, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel24Layout.setVerticalGroup(
             jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x24, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel26.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -879,10 +997,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel26Layout.setHorizontalGroup(
             jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x25, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel26Layout.setVerticalGroup(
             jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x25, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel25.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -893,10 +1015,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel25Layout.setHorizontalGroup(
             jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x26, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel25Layout.setVerticalGroup(
             jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x26, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel27.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -907,10 +1033,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel27Layout.setHorizontalGroup(
             jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x27, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel27Layout.setVerticalGroup(
             jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x27, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel28.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -921,10 +1051,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel28Layout.setHorizontalGroup(
             jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x28, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel28Layout.setVerticalGroup(
             jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x28, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel146.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -935,10 +1069,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel146Layout.setHorizontalGroup(
             jPanel146Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel146Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x29, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel146Layout.setVerticalGroup(
             jPanel146Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel146Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x29, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel30.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -949,10 +1087,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel30Layout.setHorizontalGroup(
             jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x30, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel30Layout.setVerticalGroup(
             jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x30, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel31.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -963,10 +1105,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel31Layout.setHorizontalGroup(
             jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x31, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel31Layout.setVerticalGroup(
             jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x31, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel32.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -977,10 +1123,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel32Layout.setHorizontalGroup(
             jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x32, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel32Layout.setVerticalGroup(
             jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x32, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel33.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -991,10 +1141,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel33Layout.setHorizontalGroup(
             jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x33, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel33Layout.setVerticalGroup(
             jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x33, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel34.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1005,10 +1159,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel34Layout.setHorizontalGroup(
             jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x34, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel34Layout.setVerticalGroup(
             jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x34, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel35.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1019,10 +1177,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel35Layout.setHorizontalGroup(
             jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x35, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel35Layout.setVerticalGroup(
             jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x35, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel36.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1033,10 +1195,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel36Layout.setHorizontalGroup(
             jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x36, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel36Layout.setVerticalGroup(
             jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x36, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel37.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1047,10 +1213,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel37Layout.setHorizontalGroup(
             jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x37, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel37Layout.setVerticalGroup(
             jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x37, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel39.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1061,10 +1231,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel39Layout.setHorizontalGroup(
             jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x38, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel39Layout.setVerticalGroup(
             jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 45, Short.MAX_VALUE)
+            .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x38, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel40.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1075,10 +1249,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel40Layout.setHorizontalGroup(
             jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x39, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel40Layout.setVerticalGroup(
             jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x39, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel41.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1089,10 +1267,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel41Layout.setHorizontalGroup(
             jPanel41Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel41Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x40, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel41Layout.setVerticalGroup(
             jPanel41Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel41Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x40, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel42.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1103,10 +1285,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel42Layout.setHorizontalGroup(
             jPanel42Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel42Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x41, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel42Layout.setVerticalGroup(
             jPanel42Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel42Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x41, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel43.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1117,10 +1303,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel43Layout.setHorizontalGroup(
             jPanel43Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel43Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x42, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel43Layout.setVerticalGroup(
             jPanel43Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel43Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x42, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1131,10 +1321,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel44Layout.setHorizontalGroup(
             jPanel44Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel44Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x43, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel44Layout.setVerticalGroup(
             jPanel44Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel44Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x43, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel46.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1145,10 +1339,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel46Layout.setHorizontalGroup(
             jPanel46Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel46Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x44, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel46Layout.setVerticalGroup(
             jPanel46Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel46Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x44, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel45.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1159,10 +1357,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel45Layout.setHorizontalGroup(
             jPanel45Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel45Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x45, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel45Layout.setVerticalGroup(
             jPanel45Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel45Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x45, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel47.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1173,10 +1375,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel47Layout.setHorizontalGroup(
             jPanel47Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel47Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x46, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel47Layout.setVerticalGroup(
             jPanel47Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel47Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x46, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel48.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1187,10 +1393,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel48Layout.setHorizontalGroup(
             jPanel48Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel48Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x47, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel48Layout.setVerticalGroup(
             jPanel48Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel48Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x47, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel49.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1201,10 +1411,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel49Layout.setHorizontalGroup(
             jPanel49Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel49Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x48, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel49Layout.setVerticalGroup(
             jPanel49Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel49Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x48, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel50.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1215,10 +1429,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel50Layout.setHorizontalGroup(
             jPanel50Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel50Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x49, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel50Layout.setVerticalGroup(
             jPanel50Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel50Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x49, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel51.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1229,10 +1447,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel51Layout.setHorizontalGroup(
             jPanel51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x50, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel51Layout.setVerticalGroup(
             jPanel51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel51Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x50, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel52.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1243,10 +1465,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel52Layout.setHorizontalGroup(
             jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x51, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel52Layout.setVerticalGroup(
             jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel52Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x51, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel53.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1257,10 +1483,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel53Layout.setHorizontalGroup(
             jPanel53Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel53Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x52, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel53Layout.setVerticalGroup(
             jPanel53Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel53Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x52, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel54.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1271,10 +1501,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel54Layout.setHorizontalGroup(
             jPanel54Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel54Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x53, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel54Layout.setVerticalGroup(
             jPanel54Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel54Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x53, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel55.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1285,10 +1519,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel55Layout.setHorizontalGroup(
             jPanel55Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel55Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x54, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel55Layout.setVerticalGroup(
             jPanel55Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel55Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x54, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel56.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1299,10 +1537,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel56Layout.setHorizontalGroup(
             jPanel56Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel56Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x55, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel56Layout.setVerticalGroup(
             jPanel56Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel56Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x55, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel57.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1313,10 +1555,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel57Layout.setHorizontalGroup(
             jPanel57Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel57Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x56, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel57Layout.setVerticalGroup(
             jPanel57Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel57Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x56, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel58.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1327,10 +1573,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel58Layout.setHorizontalGroup(
             jPanel58Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel58Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x57, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel58Layout.setVerticalGroup(
             jPanel58Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 45, Short.MAX_VALUE)
+            .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel58Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x57, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel59.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1341,10 +1591,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel59Layout.setHorizontalGroup(
             jPanel59Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel59Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x58, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel59Layout.setVerticalGroup(
             jPanel59Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel59Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x58, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel60.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1355,10 +1609,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel60Layout.setHorizontalGroup(
             jPanel60Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel60Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x59, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel60Layout.setVerticalGroup(
             jPanel60Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel60Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x59, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel61.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1369,10 +1627,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel61Layout.setHorizontalGroup(
             jPanel61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x60, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel61Layout.setVerticalGroup(
             jPanel61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel61Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x60, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel62.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1383,10 +1645,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel62Layout.setHorizontalGroup(
             jPanel62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x61, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel62Layout.setVerticalGroup(
             jPanel62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel62Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x61, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel63.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1397,10 +1663,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel63Layout.setHorizontalGroup(
             jPanel63Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel63Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x62, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel63Layout.setVerticalGroup(
             jPanel63Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel63Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x62, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel64.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1411,10 +1681,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel64Layout.setHorizontalGroup(
             jPanel64Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel64Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x63, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel64Layout.setVerticalGroup(
             jPanel64Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel64Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x63, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel66.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1425,10 +1699,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel66Layout.setHorizontalGroup(
             jPanel66Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel66Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x64, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel66Layout.setVerticalGroup(
             jPanel66Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel66Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x64, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel65.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1439,10 +1717,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel65Layout.setHorizontalGroup(
             jPanel65Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel65Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x65, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel65Layout.setVerticalGroup(
             jPanel65Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel65Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x65, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel67.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1453,10 +1735,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel67Layout.setHorizontalGroup(
             jPanel67Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel67Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x66, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel67Layout.setVerticalGroup(
             jPanel67Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel67Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x66, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel68.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1467,10 +1753,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel68Layout.setHorizontalGroup(
             jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x67, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel68Layout.setVerticalGroup(
             jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel68Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x67, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel69.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1481,10 +1771,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel69Layout.setHorizontalGroup(
             jPanel69Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel69Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x68, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel69Layout.setVerticalGroup(
             jPanel69Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel69Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x68, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel70.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1495,10 +1789,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel70Layout.setHorizontalGroup(
             jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x69, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel70Layout.setVerticalGroup(
             jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel70Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x69, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel71.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1509,10 +1807,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel71Layout.setHorizontalGroup(
             jPanel71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x70, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel71Layout.setVerticalGroup(
             jPanel71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel71Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x70, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel72.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1523,10 +1825,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel72Layout.setHorizontalGroup(
             jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x71, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel72Layout.setVerticalGroup(
             jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel72Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x71, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel73.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1537,10 +1843,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel73Layout.setHorizontalGroup(
             jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x72, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel73Layout.setVerticalGroup(
             jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel73Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x72, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel74.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1551,10 +1861,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel74Layout.setHorizontalGroup(
             jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x73, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel74Layout.setVerticalGroup(
             jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel74Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x73, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel75.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1565,10 +1879,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel75Layout.setHorizontalGroup(
             jPanel75Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel75Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x74, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel75Layout.setVerticalGroup(
             jPanel75Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel75Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x74, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel76.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1579,10 +1897,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel76Layout.setHorizontalGroup(
             jPanel76Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel76Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x75, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel76Layout.setVerticalGroup(
             jPanel76Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel76Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x75, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel77.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1593,10 +1915,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel77Layout.setHorizontalGroup(
             jPanel77Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel77Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x76, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel77Layout.setVerticalGroup(
             jPanel77Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel77Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x76, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel78.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1607,10 +1933,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel78Layout.setHorizontalGroup(
             jPanel78Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel78Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x77, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel78Layout.setVerticalGroup(
             jPanel78Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 45, Short.MAX_VALUE)
+            .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel78Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x77, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel79.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1621,10 +1951,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel79Layout.setHorizontalGroup(
             jPanel79Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel79Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x78, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel79Layout.setVerticalGroup(
             jPanel79Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel79Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x78, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel80.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1635,10 +1969,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel80Layout.setHorizontalGroup(
             jPanel80Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel80Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x79, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel80Layout.setVerticalGroup(
             jPanel80Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel80Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x79, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel81.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1649,10 +1987,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel81Layout.setHorizontalGroup(
             jPanel81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x80, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel81Layout.setVerticalGroup(
             jPanel81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel81Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x80, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel82.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1663,10 +2005,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel82Layout.setHorizontalGroup(
             jPanel82Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel82Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x81, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel82Layout.setVerticalGroup(
             jPanel82Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel82Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x81, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel83.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1677,10 +2023,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel83Layout.setHorizontalGroup(
             jPanel83Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel83Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x82, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel83Layout.setVerticalGroup(
             jPanel83Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel83Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x82, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel84.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1691,10 +2041,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel84Layout.setHorizontalGroup(
             jPanel84Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel84Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x83, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel84Layout.setVerticalGroup(
             jPanel84Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel84Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x83, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel86.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1705,10 +2059,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel86Layout.setHorizontalGroup(
             jPanel86Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel86Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x84, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel86Layout.setVerticalGroup(
             jPanel86Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel86Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x84, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel85.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1719,10 +2077,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel85Layout.setHorizontalGroup(
             jPanel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x85, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel85Layout.setVerticalGroup(
             jPanel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel85Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x85, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel87.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1733,10 +2095,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel87Layout.setHorizontalGroup(
             jPanel87Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel87Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x86, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel87Layout.setVerticalGroup(
             jPanel87Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel87Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x86, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel88.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1747,10 +2113,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel88Layout.setHorizontalGroup(
             jPanel88Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel88Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x87, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel88Layout.setVerticalGroup(
             jPanel88Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel88Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x87, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel89.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1761,10 +2131,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel89Layout.setHorizontalGroup(
             jPanel89Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel89Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x88, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel89Layout.setVerticalGroup(
             jPanel89Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel89Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x88, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel90.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1775,10 +2149,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel90Layout.setHorizontalGroup(
             jPanel90Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel90Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x89, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel90Layout.setVerticalGroup(
             jPanel90Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel90Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x89, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel91.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1789,10 +2167,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel91Layout.setHorizontalGroup(
             jPanel91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x90, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel91Layout.setVerticalGroup(
             jPanel91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel91Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x90, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel92.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1803,10 +2185,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel92Layout.setHorizontalGroup(
             jPanel92Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel92Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x91, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel92Layout.setVerticalGroup(
             jPanel92Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel92Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x91, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel93.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1817,10 +2203,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel93Layout.setHorizontalGroup(
             jPanel93Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel93Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x92, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel93Layout.setVerticalGroup(
             jPanel93Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel93Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x92, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel94.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1831,10 +2221,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel94Layout.setHorizontalGroup(
             jPanel94Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel94Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x93, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel94Layout.setVerticalGroup(
             jPanel94Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel94Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x93, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel95.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1845,10 +2239,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel95Layout.setHorizontalGroup(
             jPanel95Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel95Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x94, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel95Layout.setVerticalGroup(
             jPanel95Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel95Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x94, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel96.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1859,10 +2257,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel96Layout.setHorizontalGroup(
             jPanel96Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel96Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x95, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel96Layout.setVerticalGroup(
             jPanel96Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel96Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x95, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel97.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1873,10 +2275,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel97Layout.setHorizontalGroup(
             jPanel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x96, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel97Layout.setVerticalGroup(
             jPanel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel97Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x96, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel98.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1887,10 +2293,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel98Layout.setHorizontalGroup(
             jPanel98Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel98Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x97, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel98Layout.setVerticalGroup(
             jPanel98Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 45, Short.MAX_VALUE)
+            .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel98Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x97, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel99.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1901,10 +2311,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel99Layout.setHorizontalGroup(
             jPanel99Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel99Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x98, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel99Layout.setVerticalGroup(
             jPanel99Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel99Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x98, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel100.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1915,10 +2329,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel100Layout.setHorizontalGroup(
             jPanel100Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel100Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x99, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel100Layout.setVerticalGroup(
             jPanel100Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel100Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x99, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         jPanel38.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1929,10 +2347,14 @@ public class Tela extends javax.swing.JFrame {
         jPanel38Layout.setHorizontalGroup(
             jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 46, Short.MAX_VALUE)
+            .addGroup(jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x100, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
         jPanel38Layout.setVerticalGroup(
             jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
+            .addGroup(jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addComponent(jLabel1x100, javax.swing.GroupLayout.DEFAULT_SIZE, 46, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout jPanelMenu2Layout = new javax.swing.GroupLayout(jPanelMenu2);
@@ -1944,15 +2366,15 @@ public class Tela extends javax.swing.JFrame {
                 .addGroup(jPanelMenu2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanelMenu2Layout.createSequentialGroup()
                         .addGroup(jPanelMenu2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jPanel11, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(jPanelMenu2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(jPanelMenu2Layout.createSequentialGroup()
-                                .addComponent(jPanel11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jPanel12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addComponent(jPanel13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(javax.swing.GroupLayout.Alignment.LEADING, jPanelMenu2Layout.createSequentialGroup()
-                                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanelMenu2Layout.createSequentialGroup()
                                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
@@ -2308,7 +2730,7 @@ public class Tela extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanelMenu, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(layout.createSequentialGroup()
-                .addGap(63, 63, 63)
+                .addGap(49, 49, 49)
                 .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, 580, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -2319,17 +2741,16 @@ public class Tela extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addComponent(jPanelMenu, javax.swing.GroupLayout.PREFERRED_SIZE, 143, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jPanelMenu, javax.swing.GroupLayout.PREFERRED_SIZE, 130, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jPanelMenu2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createSequentialGroup()
                         .addGap(32, 32, 32)
                         .addComponent(botaoAestrela)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(botaoLargura)
-                        .addGap(0, 0, Short.MAX_VALUE))))
+                        .addComponent(botaoLargura)))
+                .addGap(0, 16, Short.MAX_VALUE))
         );
 
         pack();
@@ -2415,8 +2836,106 @@ public class Tela extends javax.swing.JFrame {
     private javax.swing.JButton jButtonIniciar;
     private javax.swing.JButton jButtonReiniciar;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel1x1;
+    private javax.swing.JLabel jLabel1x10;
+    private javax.swing.JLabel jLabel1x100;
+    private javax.swing.JLabel jLabel1x11;
+    private javax.swing.JLabel jLabel1x12;
+    private javax.swing.JLabel jLabel1x13;
+    private javax.swing.JLabel jLabel1x14;
+    private javax.swing.JLabel jLabel1x15;
+    private javax.swing.JLabel jLabel1x16;
+    private javax.swing.JLabel jLabel1x17;
+    private javax.swing.JLabel jLabel1x18;
+    private javax.swing.JLabel jLabel1x19;
+    private javax.swing.JLabel jLabel1x2;
+    private javax.swing.JLabel jLabel1x20;
+    private javax.swing.JLabel jLabel1x21;
+    private javax.swing.JLabel jLabel1x22;
+    private javax.swing.JLabel jLabel1x23;
+    private javax.swing.JLabel jLabel1x24;
+    private javax.swing.JLabel jLabel1x25;
+    private javax.swing.JLabel jLabel1x26;
+    private javax.swing.JLabel jLabel1x27;
+    private javax.swing.JLabel jLabel1x28;
+    private javax.swing.JLabel jLabel1x29;
+    private javax.swing.JLabel jLabel1x3;
+    private javax.swing.JLabel jLabel1x30;
+    private javax.swing.JLabel jLabel1x31;
+    private javax.swing.JLabel jLabel1x32;
+    private javax.swing.JLabel jLabel1x33;
+    private javax.swing.JLabel jLabel1x34;
+    private javax.swing.JLabel jLabel1x35;
+    private javax.swing.JLabel jLabel1x36;
+    private javax.swing.JLabel jLabel1x37;
+    private javax.swing.JLabel jLabel1x38;
+    private javax.swing.JLabel jLabel1x39;
+    private javax.swing.JLabel jLabel1x4;
+    private javax.swing.JLabel jLabel1x40;
+    private javax.swing.JLabel jLabel1x41;
+    private javax.swing.JLabel jLabel1x42;
+    private javax.swing.JLabel jLabel1x43;
+    private javax.swing.JLabel jLabel1x44;
+    private javax.swing.JLabel jLabel1x45;
+    private javax.swing.JLabel jLabel1x46;
+    private javax.swing.JLabel jLabel1x47;
+    private javax.swing.JLabel jLabel1x48;
+    private javax.swing.JLabel jLabel1x49;
+    private javax.swing.JLabel jLabel1x5;
+    private javax.swing.JLabel jLabel1x50;
+    private javax.swing.JLabel jLabel1x51;
+    private javax.swing.JLabel jLabel1x52;
+    private javax.swing.JLabel jLabel1x53;
+    private javax.swing.JLabel jLabel1x54;
+    private javax.swing.JLabel jLabel1x55;
+    private javax.swing.JLabel jLabel1x56;
+    private javax.swing.JLabel jLabel1x57;
+    private javax.swing.JLabel jLabel1x58;
+    private javax.swing.JLabel jLabel1x59;
+    private javax.swing.JLabel jLabel1x6;
+    private javax.swing.JLabel jLabel1x60;
+    private javax.swing.JLabel jLabel1x61;
+    private javax.swing.JLabel jLabel1x62;
+    private javax.swing.JLabel jLabel1x63;
+    private javax.swing.JLabel jLabel1x64;
+    private javax.swing.JLabel jLabel1x65;
+    private javax.swing.JLabel jLabel1x66;
+    private javax.swing.JLabel jLabel1x67;
+    private javax.swing.JLabel jLabel1x68;
+    private javax.swing.JLabel jLabel1x69;
+    private javax.swing.JLabel jLabel1x7;
+    private javax.swing.JLabel jLabel1x70;
+    private javax.swing.JLabel jLabel1x71;
+    private javax.swing.JLabel jLabel1x72;
+    private javax.swing.JLabel jLabel1x73;
+    private javax.swing.JLabel jLabel1x74;
+    private javax.swing.JLabel jLabel1x75;
+    private javax.swing.JLabel jLabel1x76;
+    private javax.swing.JLabel jLabel1x77;
+    private javax.swing.JLabel jLabel1x78;
+    private javax.swing.JLabel jLabel1x79;
+    private javax.swing.JLabel jLabel1x8;
+    private javax.swing.JLabel jLabel1x80;
+    private javax.swing.JLabel jLabel1x81;
+    private javax.swing.JLabel jLabel1x82;
+    private javax.swing.JLabel jLabel1x83;
+    private javax.swing.JLabel jLabel1x84;
+    private javax.swing.JLabel jLabel1x85;
+    private javax.swing.JLabel jLabel1x86;
+    private javax.swing.JLabel jLabel1x87;
+    private javax.swing.JLabel jLabel1x88;
+    private javax.swing.JLabel jLabel1x89;
+    private javax.swing.JLabel jLabel1x9;
+    private javax.swing.JLabel jLabel1x90;
+    private javax.swing.JLabel jLabel1x91;
+    private javax.swing.JLabel jLabel1x92;
+    private javax.swing.JLabel jLabel1x93;
+    private javax.swing.JLabel jLabel1x94;
+    private javax.swing.JLabel jLabel1x95;
+    private javax.swing.JLabel jLabel1x96;
+    private javax.swing.JLabel jLabel1x97;
+    private javax.swing.JLabel jLabel1x98;
+    private javax.swing.JLabel jLabel1x99;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -2424,7 +2943,6 @@ public class Tela extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
     private javax.swing.JLabel jLabelFraseStatus;
     private javax.swing.JLabel jLabelTitulo;
     private javax.swing.JPanel jPanel1;
@@ -2434,9 +2952,6 @@ public class Tela extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel102;
     private javax.swing.JPanel jPanel103;
     private javax.swing.JPanel jPanel104;
-    private javax.swing.JPanel jPanel105;
-    private javax.swing.JPanel jPanel106;
-    private javax.swing.JPanel jPanel107;
     private javax.swing.JPanel jPanel108;
     private javax.swing.JPanel jPanel109;
     private javax.swing.JPanel jPanel11;
